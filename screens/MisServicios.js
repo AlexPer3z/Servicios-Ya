@@ -103,6 +103,7 @@ export default function MisServicios() {
   );
 
   return (
+    
     <View style={styles.container}>
       <Text style={styles.separador}>Mis Ofertas de Servicios</Text>
       <FlatList
